@@ -1,10 +1,18 @@
-# M & L Occupational Safety — Digital Experience Case Study
+<p align="center">
+  <img src="assets/ml-safety-mark.png" width="112" alt="M & L Occupational Safety identity mark" />
+</p>
+
+<h1 align="center">M & L Occupational Safety — Digital Experience Case Study</h1>
+
+<p align="center">
+  <a href="https://ml-occupational-safety.pages.dev/"><strong>Open the live experience ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies ↗</a>
+</p>
+
+![M & L Occupational Safety experience set against the Namib coast](assets/namib-coast-hero.jpg)
 
 A public design and engineering case study for the M & L Occupational Consulting Agents website: a bold, mobile-hardened occupational health and safety experience created in Windhoek, Namibia.
-
-## Live website
-
-**[ml-occupational-safety.pages.dev](https://ml-occupational-safety.pages.dev)**
 
 ## The brief
 
@@ -30,8 +38,12 @@ This repository contains the public case study only. The production application 
 
 ## Credits
 
-Creative direction and implementation by Kinetic Group Namibia.
+Creative direction, identity refinement, experience design and implementation by **[SolarSpin Technologies](https://www.solarspin-namibia.xyz/)**, led by Freeman Ipumbu in Windhoek.
 
 ## Licence
 
 The case-study code is available under the MIT License. The M & L name, identity and imagery remain the property of their respective owner and are not licensed for reuse.
+
+---
+
+<p align="center"><strong>A Digital Experience by <a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies</a>.</strong></p>
